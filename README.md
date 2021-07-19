@@ -9,9 +9,9 @@
 </p>
 
 <p>
-    <a href="https://github.com/hamadaio"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
-    <a href="https://linkedin.com/in/hamadaio"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
-    <a href="https://twitter.com/joel_henderson"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/assets/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
+    <a href="https://github.com/hamadaio"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
+    <a href="https://linkedin.com/in/hamadaio"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
+    <a href="https://twitter.com/joel_henderson"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
 </p>
 
 
