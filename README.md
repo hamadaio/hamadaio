@@ -4,7 +4,7 @@
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
     <!--&bull; -->
     <!-- <a href="tel:xxx-xxx--xxxx-x">xxx-xxx-xxxx</a> -->
-    <!--&bull; --> 
+    &bull; 
     <a href="https://raw.githubusercontent.com/hamadaio/hamadaiomain/cv/hamada_cv_2021.pdf">resume</a>
 </p>
 
