@@ -1,5 +1,5 @@
 <p>
-    <b>I am a neuroscientist (PhD) working as a software developer</b>
+    <b>Neuroscientist (PhD) | Software Developer & Agile/DevOps Lead @ Vitec Appva</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
     <!--&bull; -->
