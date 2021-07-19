@@ -5,7 +5,7 @@
     <!--&bull; -->
     <!-- <a href="tel:xxx-xxx--xxxx-x">xxx-xxx-xxxx</a> -->
     &bull; 
-    <a href="https://github.com/hamadaio/hamadaio/blob/main/cv/hamada_cv_2021.pdf">resume</a>
+    <a href="https://rawgithub.com/hamadaio/hamadaio/main/cv/hamada_cv_2021.pdf">resume</a>
 </p>
 
 
