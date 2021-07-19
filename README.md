@@ -13,7 +13,7 @@
      <!-- <a href="https://gitlab.com/hamadaio"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/gitlab.svg"></a> -->
     <a href="https://www.linkedin.com/in/mustafashamada/"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
     <a href="https://scholar.google.com/citations?user=CGsXLIwAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/google-scholar.svg"></a>
-    <a href="https://www.researchgate.net/profile/Mustafa-Hamada"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/researchgate.svg"></a>
+    <a href="https://www.researchgate.net/profile/Mustafa-Hamada"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/researchgate.png"></a>
     <a href="https://twitter.com/mustafashamada"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
 </p>
 
