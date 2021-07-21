@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/mustafashamada/"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
     <a href="https://scholar.google.com/citations?user=CGsXLIwAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/google-scholar.svg"></a>
     <a href="https://orcid.org/0000-0002-2232-6146"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/orcid.svg"></a>
-    <a href="https://twitter.com/mustafashamada"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/twitter.svg" style="max-height: 8px; max-width: 8px;"/></a>
+    <a href="https://twitter.com/mustafashamada"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
 </p>
 
 
