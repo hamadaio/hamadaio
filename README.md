@@ -1,5 +1,5 @@
 <p>
-    <b>Neuroscientist (PhD) | Software Developer, Product Owner (ML) & Agile Lead @ Vitec Appva</b>
+    <b>Neuroscientist (PhD) @ Vitec Appva</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
     <!--&bull; -->
