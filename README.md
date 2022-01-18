@@ -1,5 +1,5 @@
 <p>
-    <b>Neuroscientist (PhD) @ Vitec Appva</b>
+    <b>Neuroscientist (PhD)· Head of Science @ Mendi.io</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
     <!--&bull; -->
