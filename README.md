@@ -1,5 +1,5 @@
 <p>
-    <b>Neuroscientist (PhD) · Head Of Science · Behavioural Design @ Mendi.io</b>
+    <b>Neuroscientist (PhD) · Head Of Science · Product Management @ Mendi.io</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
     <!--&bull; -->
