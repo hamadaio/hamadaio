@@ -2,7 +2,6 @@
     <b>Chief Product and Science Officer @ Mendi Innovations</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
-    <!--&bull; -->
     <!-- <a href="tel:xxx-xxx--xxxx-x">xxx-xxx-xxxx</a> -->
     &bull; 
 </p>
