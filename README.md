@@ -2,6 +2,7 @@
     <b>Chief Product and Science Officer @ Mendi Innovations</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
+    <a href="mailto:mustafa@mendi.io">mustafa@mendi.io</a>
 </p>
 
 <p>
@@ -11,22 +12,3 @@
     <a href="https://scholar.google.com/citations?user=CGsXLIwAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/google-scholar.svg"></a>
     <a href="https://orcid.org/0000-0002-2232-6146"><img src="https://raw.githubusercontent.com/hamadaio/hamadaio/main/images/icons/nucleo-social-icons/svg/logo/orcid.svg"></a>
 </p>
-
-
-
-
-<!-- ### Hi there 👋-
-
-**hamadaio/hamadaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
