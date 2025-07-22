@@ -1,5 +1,5 @@
 <p>
-    <b>Neuroscientist (PhD) · Chief Product and Science Officer @ Mendi Innovations</b>
+    <b>Chief Product and Science Officer @ Mendi Innovations</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
     <!--&bull; -->
