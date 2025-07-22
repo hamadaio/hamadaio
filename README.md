@@ -2,7 +2,6 @@
     <b>Chief Product and Science Officer @ Mendi Innovations</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
-    <a href="mailto:mustafa@mendi.io">mustafa@mendi.io</a>
 </p>
 
 <p>
