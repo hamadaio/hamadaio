@@ -1,5 +1,5 @@
 <p>
-    <b>CPSO @ Mendi Innovations</b>
+    <b>Neurotechnology Wearables</b>
     <br>
     <a href="mailto:mustafa.s.hamada@gmail.com">mustafa.s.hamada@gmail.com</a>
 </p>
